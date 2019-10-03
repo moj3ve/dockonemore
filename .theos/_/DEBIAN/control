@@ -1,0 +1,10 @@
+Package: me.shymemoriees.dockonemore
+Name: DockOneMore
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: ShyMemoriees
+Author: ShyMemoriees
+Section: Tweaks
+Version: 1.0
+Installed-Size: 136
